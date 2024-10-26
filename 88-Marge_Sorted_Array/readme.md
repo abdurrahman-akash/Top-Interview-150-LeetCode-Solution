@@ -43,9 +43,12 @@ Your task is to merge these two collections into one sorted bookshelf.
 
 This problem-solving approach is not only applicable to coding challenges but also a great metaphor for merging different ideas and experiences in life.
 
+## Complexity
+- #### Time Complexity: O(m+n)
+- #### Space Complexity: O(1)
 
 
-I'm excited to dive deeper into data structures and algorithms as I prepare for my next coding challenges! If you have tips or resources to share, I’d love to hear from you!
+### I'm excited to dive deeper into data structures and algorithms as I prepare for my next coding challenges! If you have tips or resources to share, I’d love to hear from you!
 
 
 
